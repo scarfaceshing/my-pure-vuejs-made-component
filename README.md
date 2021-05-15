@@ -1,4 +1,3 @@
-# vue-smc
 
 ## Vuetify + vuejs
 Pure vuejs components
