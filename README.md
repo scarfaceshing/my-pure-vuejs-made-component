@@ -1,6 +1,6 @@
 
 ## Vuetify + vuejs
-Pure vuejs components
+My pure vuejs components
 
 ### Project setup
 ```
