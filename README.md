@@ -1,6 +1,9 @@
 # vue-smc
 
-## Project setup
+## Vuetify + vuejs
+## Pure vuejs components
+
+### Project setup
 ```
 npm install
 ```
