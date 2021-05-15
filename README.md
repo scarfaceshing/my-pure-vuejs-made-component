@@ -1,7 +1,7 @@
 # vue-smc
 
 ## Vuetify + vuejs
-## Pure vuejs components
+Pure vuejs components
 
 ### Project setup
 ```
